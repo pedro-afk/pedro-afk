@@ -7,8 +7,10 @@
 - 😄 Pronouns: He...
 - ⚡ Fun fact: there are more planes under the sea than submarines in the sky...
 
-### 📊 Github Stats
+### Github Stats 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-afk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-afk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-afk)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-afk)](https://github.com/anuraghazra/github-readme-stats)
