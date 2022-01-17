@@ -9,9 +9,9 @@
 
 ### Github Stats 📊
 
-<div>
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedro-afk" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-afk&layout=compact" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=pedro-afk" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-afk&layout=compact" /></td>
+  </tr>
+</table>
