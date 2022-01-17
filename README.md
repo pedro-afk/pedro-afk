@@ -9,9 +9,9 @@
 
 ### Github Stats 📊
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-afk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-afk)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-afk&langs_count=8" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pedro-afk" />
+  </div>
+</div>
