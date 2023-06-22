@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=pedro-afk" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=pedro-afk&show" /></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-afk&layout=donut" /></td>
   </tr>
 </table>
