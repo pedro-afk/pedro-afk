@@ -11,6 +11,6 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=pedro-afk" /></td>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-afk&layout=donut" /></td>
   </tr>
 </table>
